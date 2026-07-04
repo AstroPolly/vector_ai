@@ -46,19 +46,6 @@ Vector Safety Filter — прототип системы, анализирующ
 
 ---
 
-## Структура проекта
-
-vector-safety-filter/
-├── collector_app.py       # Модуль сбора данных
-├── learn.ipynb            # Обучение модели
-├── inference_app.py       # Проверка рисунков
-├── requirements.txt       # Зависимости
-├── .gitignore             # Git исключения
-├── README.md              # Документация
-└── screenshots/           # Скриншоты
-
----
-
 ## Быстрый старт
 
 1. Установка зависимостей:
