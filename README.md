@@ -140,4 +140,4 @@ MIT License
 
 ---
 
-[GitHub](https://github.com/AstroPolly/vector-safety-filter)
+[GitHub](https://github.com/AstroPolly/vector-ai)
